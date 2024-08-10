@@ -1,13 +1,16 @@
-package com.example.demoyangu;
+package com.example.learnspring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoyanguApplication {
+public class LearnspringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoyanguApplication.class, args);
+
+		SpringApplication.run(LearnspringApplication.class, args);
+
+		System.out.println("Njoo hapa");
 	}
 
 }

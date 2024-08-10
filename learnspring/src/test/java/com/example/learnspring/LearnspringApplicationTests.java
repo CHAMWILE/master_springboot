@@ -1,10 +1,10 @@
-package com.example.demoyangu;
+package com.example.learnspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoyanguApplicationTests {
+class LearnspringApplicationTests {
 
 	@Test
 	void contextLoads() {
